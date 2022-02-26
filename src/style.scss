@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    font-size: 1.2vw;
+}
+html,
+body {
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+img {
+    object-fit: contain !important;
+}
+@media screen and (max-width: 575px) {
+    :root {
+        font-size: 3vw !important;
+    }
+}
