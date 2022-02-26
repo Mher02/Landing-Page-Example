@@ -23,7 +23,7 @@ export default function NavBar({scrollToSection}) {
         <>
             <nav className="navbar navbar-expand-lg navbar-light">
                 <a className="navbar-brand" href="#">
-                    <img src="/image/logo.png" alt="logo" />
+                    <img src="image/logo.png" alt="logo" />
                 </a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
