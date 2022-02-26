@@ -7,7 +7,7 @@ export default function Carusel() {
             <div className="row">
                 <div className="d-flex slid w-100">
                     <div className="logo">
-                    <img src="/image/logo.png" alt="logo" />
+                    <img src="image/logo.png" alt="logo" />
                     </div>
                     <div className="logo">
                     <img src="/image/logo.png" alt="logo" />
